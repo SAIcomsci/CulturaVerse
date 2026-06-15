@@ -41,11 +41,11 @@ MODEL_PATH = "/disk1/models/Krutrim_1"
 
 MAX_NEW_TOKENS = 4000
 
-INPUT_FOLDER = "/home/saikat/Sarvam-M-test/Poem_prompts"
+INPUT_FOLDER = "/home/Sarvam-M-test/Poem_prompts"
 
 POEM_COLUMN = "Transformed Poem"
 
-OUTPUT_FOLDER = "/home/saikat/Krutrim-1/Bengali"
+OUTPUT_FOLDER = "/home/Krutrim-1/Bengali"
 
 SAVE_INTERVAL = 1
 
